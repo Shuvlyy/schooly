@@ -1,16 +1,12 @@
-# schooly
+<div align="center">
+  <img src="https://github.com/Shuvlyy/schooly/blob/main/media/Banner.png?raw=true" height="112" alt="Schooly banner">
+</div>
 
-A new Flutter project.
+---
 
-## Getting Started
+[!CAUTION]
+Ce projet est en pause depuis Août 2023.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fait avec 💜 par [Lysandre B.](https://github.com/Shuvlyy) ・ [![wakatime](https://wakatime.com/badge/user/2f50fe6c-0368-4bef-aa01-3a67193b63f8/project/d8d9199e-c0c3-482c-a3a2-0c434c2b9526.svg)](https://wakatime.com/badge/user/2f50fe6c-0368-4bef-aa01-3a67193b63f8/project/d8d9199e-c0c3-482c-a3a2-0c434c2b9526) *(+ 260 heures non comptées)*
