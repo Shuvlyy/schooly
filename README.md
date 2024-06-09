@@ -4,8 +4,8 @@
 
 ---
 
-[!CAUTION]
-Ce projet est en pause depuis Août 2023.
+> [!CAUTION]
+> Ce projet est en pause depuis Août 2023.
 
 ---
 
